@@ -1,0 +1,21 @@
+{
+  "id": "b664e16e-ce00-49d7-9d30-13d777c31c3d",
+  "version": "2.0",
+  "name": "red",
+  "url": "",
+  "tests": [{
+    "id": "d781d38e-e658-43a4-9b87-6606d9ae7c19",
+    "name": "rr",
+    "commands": []
+  }],
+  "suites": [{
+    "id": "2e86259b-5671-4fe9-b780-79ec6099dad7",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["d781d38e-e658-43a4-9b87-6606d9ae7c19"]
+  }],
+  "urls": [],
+  "plugins": []
+}
